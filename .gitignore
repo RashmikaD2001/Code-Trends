@@ -1,0 +1,4 @@
+.env
+__pycache__
+prediction_results.csv
+model_comparison.csv
